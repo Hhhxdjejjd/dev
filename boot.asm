@@ -1,4 +1,4 @@
 hang:
     jmp hang
 
-    times 512-($-$$) db 0
+    times 512-($-$$) db 
